@@ -46,7 +46,9 @@
 
 	<ul>
     <li>Uptated: 08-02-2025</li>
-	<li>Visual Studio Code with the Microsoft Java Extension Pack</li>	
+	<li>Visual Studio Code with the Microsoft Java Extension Pack</li>
+	<li>Java 17</li>
+	<l>Spring Boot 3</l>	
 	<li>Microsoft Azure App Service with a Free App Service Plan for web hosting</li>
 	
     <li>JVM memory have been set to an alocation of 512 MB both initial and max because of the limited physial memory</li>
@@ -65,6 +67,11 @@
 	<ul>
 		<li>ReactJS, AngularJS, jQuery REST API Clients in JSP files for the View part ( GUI )</li>
 		<li>Bootstrap for the responsive design</li>
+	</ul>
+
+	<ul>
+		<li>Java 17 at Azure</li>
+		<li>Tomcat 10.1 at Azure</li>
 	</ul>
 	
 </div>
