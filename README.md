@@ -1,6 +1,6 @@
   # Spring Boot 3 Jersey REST API using MVC JSP JPA MySQL
 
-Last updated: 08-02-2025
+Last updated 08-02-2025
 
 - Java 17
 - Spring Boot 3.3
